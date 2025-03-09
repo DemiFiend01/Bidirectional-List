@@ -1,0 +1,7 @@
+20 Szymon 3.2	
+21 Maciej 3.6	
+22 Karolina 3.5	
+25 Pola 3.1	
+25 Mikolaj 3.8	
+28 Krzysztof 3.7	
+30 Andrzej 3.5	

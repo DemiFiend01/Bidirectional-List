@@ -1,0 +1,9 @@
+theta
+omega
+c
+b
+alpha
+a
+C
+B
+A
